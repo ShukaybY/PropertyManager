@@ -1,0 +1,11 @@
+# Generated report exports
+property_net_profit.csv
+monthly_profit_trend.csv
+expense_breakdown_by_property.csv
+
+# macOS
+.DS_Store
+
+# Editor settings
+.idea/
+.vscode/

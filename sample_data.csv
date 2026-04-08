@@ -1,0 +1,91 @@
+type,id,property_name,city,state,property_type,purchase_price,purchase_date,status,date,category_or_type,amount,vendor_or_tenant,notes
+property,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,,,,,
+property,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,,,,,
+property,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,,,,,
+property,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,,,,,
+property,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,,,,,
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-01-05,Mortgage,1450.00,Chase Bank,Jan mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-01-12,Insurance,180.00,State Farm,Monthly landlord insurance
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-02-05,Mortgage,1450.00,Chase Bank,Feb mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-02-18,Repairs,320.00,Mike Plumbing Co.,Leaking faucet unit 1
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-03-05,Mortgage,1450.00,Chase Bank,Mar mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-03-22,Maintenance,150.00,Green Lawn Care,Spring lawn cleanup
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-04-05,Mortgage,1450.00,Chase Bank,Apr mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-04-10,Property Tax,975.00,Cook County,Q2 property tax
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-05-05,Mortgage,1450.00,Chase Bank,May mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-06-05,Mortgage,1450.00,Chase Bank,Jun mortgage
+expense,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-06-14,Repairs,640.00,HVAC Pros,AC unit service unit 2
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-01-08,Mortgage,890.00,Wells Fargo,Jan mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-01-08,HOA,225.00,Oak Ave HOA,Jan HOA fee
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-02-08,Mortgage,890.00,Wells Fargo,Feb mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-02-08,HOA,225.00,Oak Ave HOA,Feb HOA fee
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-03-08,Mortgage,890.00,Wells Fargo,Mar mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-03-08,HOA,225.00,Oak Ave HOA,Mar HOA fee
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-03-30,Repairs,410.00,QuickFix Handyman,Bathroom tile repair
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-04-08,Mortgage,890.00,Wells Fargo,Apr mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-04-08,HOA,225.00,Oak Ave HOA,Apr HOA fee
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-05-08,Mortgage,890.00,Wells Fargo,May mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-05-08,HOA,225.00,Oak Ave HOA,May HOA fee
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-06-08,Mortgage,890.00,Wells Fargo,Jun mortgage
+expense,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-06-08,HOA,225.00,Oak Ave HOA,Jun HOA fee
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-01-01,Mortgage,1620.00,Bank of America,Jan mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-01-15,Insurance,210.00,Allstate,Jan insurance
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-02-01,Mortgage,1620.00,Bank of America,Feb mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-03-01,Mortgage,1620.00,Bank of America,Mar mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-03-10,Utilities,95.00,ComEd,Electric owner-paid
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-04-01,Mortgage,1620.00,Bank of America,Apr mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-04-15,Property Tax,1100.00,DuPage County,Q2 tax
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-05-01,Mortgage,1620.00,Bank of America,May mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-05-20,Repairs,875.00,Roof Masters,Shingle repair after storm
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-06-01,Mortgage,1620.00,Bank of America,Jun mortgage
+expense,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-06-05,Maintenance,200.00,Green Lawn Care,Monthly lawn service
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-01-01,Mortgage,3100.00,Citibank,Jan mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-01-01,Insurance,450.00,Travelers,Jan commercial insurance
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-02-01,Mortgage,3100.00,Citibank,Feb mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-03-01,Mortgage,3100.00,Citibank,Mar mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-03-25,Repairs,1200.00,Commercial HVAC,HVAC maintenance contract
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-04-01,Mortgage,3100.00,Citibank,Apr mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-04-01,Management Fee,480.00,Metro PM Group,April mgmt fee
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-05-01,Mortgage,3100.00,Citibank,May mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-05-01,Management Fee,480.00,Metro PM Group,May mgmt fee
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-06-01,Mortgage,3100.00,Citibank,Jun mortgage
+expense,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-06-01,Management Fee,480.00,Metro PM Group,Jun mgmt fee
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-01-10,Mortgage,980.00,Chase Bank,Jan mortgage
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-01-10,Insurance,140.00,State Farm,Jan insurance
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-02-10,Mortgage,980.00,Chase Bank,Feb mortgage
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-03-10,Mortgage,980.00,Chase Bank,Mar mortgage
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-03-15,Repairs,2400.00,Total Renovations,Kitchen remodel prep
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-04-10,Mortgage,980.00,Chase Bank,Apr mortgage
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-05-10,Mortgage,980.00,Chase Bank,May mortgage
+expense,5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant,2024-06-10,Mortgage,980.00,Chase Bank,Jun mortgage
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-01-01,Rent,2200.00,Johnson Family,Unit 1 Jan rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-01-01,Rent,1100.00,Garcia Maria,Unit 2 Jan rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-02-01,Rent,2200.00,Johnson Family,Unit 1 Feb rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-02-01,Rent,1100.00,Garcia Maria,Unit 2 Feb rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-03-01,Rent,2200.00,Johnson Family,Unit 1 Mar rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-03-05,Rent,1100.00,Garcia Maria,Unit 2 Mar rent late
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-03-05,Late Fee,75.00,Garcia Maria,Late fee applied
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-04-01,Rent,2200.00,Johnson Family,Unit 1 Apr rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-04-01,Rent,1100.00,Garcia Maria,Unit 2 Apr rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-05-01,Rent,2200.00,Johnson Family,Unit 1 May rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-05-01,Rent,1100.00,Garcia Maria,Unit 2 May rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-06-01,Rent,2200.00,Johnson Family,Unit 1 Jun rent
+payment,1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active,2024-06-01,Rent,1100.00,Garcia Maria,Unit 2 Jun rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-01-01,Rent,1600.00,Chen David,Jan rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-02-01,Rent,1600.00,Chen David,Feb rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-03-01,Rent,1600.00,Chen David,Mar rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-04-01,Rent,1600.00,Chen David,Apr rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-05-01,Rent,1600.00,Chen David,May rent
+payment,2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active,2024-06-01,Rent,1600.00,Chen David,Jun rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-01-01,Rent,2400.00,Thompson Sarah,Jan rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-02-01,Rent,2400.00,Thompson Sarah,Feb rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-03-01,Rent,2400.00,Thompson Sarah,Mar rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-04-01,Rent,2400.00,Thompson Sarah,Apr rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-05-01,Rent,2400.00,Thompson Sarah,May rent
+payment,3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active,2024-06-01,Rent,2400.00,Thompson Sarah,Jun rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-01-01,Rent,5500.00,Bright Star LLC,Jan commercial rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-02-01,Rent,5500.00,Bright Star LLC,Feb commercial rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-03-01,Rent,5500.00,Bright Star LLC,Mar commercial rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-04-01,Rent,5500.00,Bright Star LLC,Apr commercial rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-05-01,Rent,5500.00,Bright Star LLC,May commercial rent
+payment,4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active,2024-06-01,Rent,5500.00,Bright Star LLC,Jun commercial rent
