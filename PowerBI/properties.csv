@@ -1,0 +1,6 @@
+property_id,property_name,city,state,property_type,purchase_price,purchase_date,status
+1,Maple Street Duplex,Chicago,IL,Multi Family,285000,2020-03-15,Active
+2,Oak Avenue Condo,Naperville,IL,Condo,195000,2021-07-01,Active
+3,Elm Road Single Family,Addison,IL,Single Family,340000,2019-11-20,Active
+4,Commerce Plaza Unit,Chicago,IL,Commercial,620000,2018-06-10,Active
+5,Pine Street Cottage,Wheaton,IL,Single Family,210000,2022-01-05,Vacant

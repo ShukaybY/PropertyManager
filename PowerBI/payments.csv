@@ -1,0 +1,32 @@
+property_id,payment_date,payment_type,amount,tenant_name,notes
+1,2024-01-01,Rent,2200.00,Johnson Family,Unit 1 Jan rent
+1,2024-01-01,Rent,1100.00,Garcia Maria,Unit 2 Jan rent
+1,2024-02-01,Rent,2200.00,Johnson Family,Unit 1 Feb rent
+1,2024-02-01,Rent,1100.00,Garcia Maria,Unit 2 Feb rent
+1,2024-03-01,Rent,2200.00,Johnson Family,Unit 1 Mar rent
+1,2024-03-05,Rent,1100.00,Garcia Maria,Unit 2 Mar rent late
+1,2024-03-05,Late Fee,75.00,Garcia Maria,Late fee applied
+1,2024-04-01,Rent,2200.00,Johnson Family,Unit 1 Apr rent
+1,2024-04-01,Rent,1100.00,Garcia Maria,Unit 2 Apr rent
+1,2024-05-01,Rent,2200.00,Johnson Family,Unit 1 May rent
+1,2024-05-01,Rent,1100.00,Garcia Maria,Unit 2 May rent
+1,2024-06-01,Rent,2200.00,Johnson Family,Unit 1 Jun rent
+1,2024-06-01,Rent,1100.00,Garcia Maria,Unit 2 Jun rent
+2,2024-01-01,Rent,1600.00,Chen David,Jan rent
+2,2024-02-01,Rent,1600.00,Chen David,Feb rent
+2,2024-03-01,Rent,1600.00,Chen David,Mar rent
+2,2024-04-01,Rent,1600.00,Chen David,Apr rent
+2,2024-05-01,Rent,1600.00,Chen David,May rent
+2,2024-06-01,Rent,1600.00,Chen David,Jun rent
+3,2024-01-01,Rent,2400.00,Thompson Sarah,Jan rent
+3,2024-02-01,Rent,2400.00,Thompson Sarah,Feb rent
+3,2024-03-01,Rent,2400.00,Thompson Sarah,Mar rent
+3,2024-04-01,Rent,2400.00,Thompson Sarah,Apr rent
+3,2024-05-01,Rent,2400.00,Thompson Sarah,May rent
+3,2024-06-01,Rent,2400.00,Thompson Sarah,Jun rent
+4,2024-01-01,Rent,5500.00,Bright Star LLC,Jan commercial rent
+4,2024-02-01,Rent,5500.00,Bright Star LLC,Feb commercial rent
+4,2024-03-01,Rent,5500.00,Bright Star LLC,Mar commercial rent
+4,2024-04-01,Rent,5500.00,Bright Star LLC,Apr commercial rent
+4,2024-05-01,Rent,5500.00,Bright Star LLC,May commercial rent
+4,2024-06-01,Rent,5500.00,Bright Star LLC,Jun commercial rent
